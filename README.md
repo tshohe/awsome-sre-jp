@@ -21,6 +21,16 @@ https://landing.google.com/sre/book.html
 - Asiaの開催地はSingapore
 - スライドは一部公開されているものもある
 
+### [NoOps Meetup Tokyo](https://noops.connpass.com/)
+
+- NoOps (No "Uncomfortable" Ops)関連イベント
+- 主催は NoOps Japan Community 
+  - NoOps 実現に向けて、プラットフォームや技術を超えて知見と経験を共有していくためのコミュニティ
+- テーマ
+  - Architecture = Design for Resiliency（高回復性設計）/DevOps
+  - Technology = Container/Serverless/Infrastructure as Code
+  - SRE = Less Toil/Ops Automation
+
 ### 参考スライド
 
 - [SLOのすすめ](https://www.slideshare.net/SawadaTakeo/slo-80136577)
