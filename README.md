@@ -2,10 +2,8 @@
 
 ## 本
 
-https://landing.google.com/sre/book.html
-
-- Site Reliability Engineering
-- The Site Reliability Workbook
+- [Site Reliability Engineering](https://landing.google.com/sre/book.html)
+- [The Site Reliability Workbook](https://landing.google.com/sre/book.html)
 - Seeking SRE
 
 ## イベント
