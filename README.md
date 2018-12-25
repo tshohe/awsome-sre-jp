@@ -19,6 +19,10 @@
 - Asiaの開催地はSingapore
 - スライドは一部公開されているものもある
 
+### [SRE Lounge](https://sre-lounge.connpass.com/)
+
+- 主に各社のSREが登壇して事例などを話すイベント
+
 ### [NoOps Meetup Tokyo](https://noops.connpass.com/)
 
 - NoOps (No "Uncomfortable" Ops)関連イベント
