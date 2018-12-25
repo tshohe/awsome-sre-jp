@@ -2,9 +2,13 @@
 
 ## 本
 
-- [Site Reliability Engineering](https://landing.google.com/sre/book.html)
-- [The Site Reliability Workbook](https://landing.google.com/sre/book.html)
-- Seeking SRE
+- SRE
+  - [Site Reliability Engineering](https://landing.google.com/sre/book.html)
+  - [The Site Reliability Workbook](https://landing.google.com/sre/book.html)
+  - Seeking SRE
+- Others
+  - [Chaos Engineering](https://www.oreilly.com/ideas/chaos-engineering)
+  - Infrastructure as Code
 
 ## イベント
 
@@ -32,6 +36,11 @@
   - Architecture = Design for Resiliency（高回復性設計）/DevOps
   - Technology = Container/Serverless/Infrastructure as Code
   - SRE = Less Toil/Ops Automation
+
+### 参考Blog
+
+- Google Cloud Platform Japan Blog(https://cloudplatform-jp.googleblog.com/search/label/CRE)
+  - SLO策定: https://cloudplatform-jp.googleblog.com/2017/11/building-good-SLOs-CRE-life-lessons.html
 
 ### 参考スライド
 
